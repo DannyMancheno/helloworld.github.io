@@ -1,0 +1,27 @@
+html {
+  color: white;
+  font-size: 30px;
+  font-family: arial;
+  background: rgb(45, 45, 45);
+  display: flex;
+  justify-content: center;
+  margin: 50px auto;
+}
+
+body {
+  background: rgb(21, 21, 21);
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+body #your_time {
+  margin-top: 25px;
+  font-size: 20px;
+}
+body #time {
+  color: orange;
+}/*# sourceMappingURL=index.css.map */
